@@ -1,2 +1,2 @@
 # Machine-Learning
-All works 
+All regression and classification 
